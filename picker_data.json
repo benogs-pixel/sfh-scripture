@@ -1,0 +1,2557 @@
+[
+  {
+    "dayNumber": 1,
+    "dayLabel": "DAY 1",
+    "calendarDate": "JAN 5",
+    "scriptureReference": "Genesis 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 2,
+    "dayLabel": "DAY 2",
+    "calendarDate": "JAN 6",
+    "scriptureReference": "Genesis 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 3,
+    "dayLabel": "DAY 3",
+    "calendarDate": "JAN 7",
+    "scriptureReference": "Genesis 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 4,
+    "dayLabel": "DAY 4",
+    "calendarDate": "JAN 8",
+    "scriptureReference": "Genesis 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 5,
+    "dayLabel": "DAY 5",
+    "calendarDate": "JAN 9",
+    "scriptureReference": "Genesis 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 6,
+    "dayLabel": "DAY 6",
+    "calendarDate": "JAN 10",
+    "scriptureReference": "Genesis 32-37",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 7,
+    "dayLabel": "DAY 7",
+    "calendarDate": "JAN 11",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 8,
+    "dayLabel": "DAY 8",
+    "calendarDate": "JAN 12",
+    "scriptureReference": "Genesis 38-44",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 9,
+    "dayLabel": "DAY 9",
+    "calendarDate": "JAN 13",
+    "scriptureReference": "Genesis 45-50",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 10,
+    "dayLabel": "DAY 10",
+    "calendarDate": "JAN 14",
+    "scriptureReference": "Matthew 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 11,
+    "dayLabel": "DAY 11",
+    "calendarDate": "JAN 15",
+    "scriptureReference": "Matthew 6-11",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 12,
+    "dayLabel": "DAY 12",
+    "calendarDate": "JAN 16",
+    "scriptureReference": "Matthew 12-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 13,
+    "dayLabel": "DAY 13",
+    "calendarDate": "JAN 17",
+    "scriptureReference": "Matthew 18-23",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 14,
+    "dayLabel": "DAY 14",
+    "calendarDate": "JAN 18",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 15,
+    "dayLabel": "DAY 15",
+    "calendarDate": "JAN 19",
+    "scriptureReference": "Matthew 24-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 16,
+    "dayLabel": "DAY 16",
+    "calendarDate": "JAN 20",
+    "scriptureReference": "Exodus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 17,
+    "dayLabel": "DAY 17",
+    "calendarDate": "JAN 21",
+    "scriptureReference": "Exodus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 18,
+    "dayLabel": "DAY 18",
+    "calendarDate": "JAN 22",
+    "scriptureReference": "Exodus 15-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 19,
+    "dayLabel": "DAY 19",
+    "calendarDate": "JAN 23",
+    "scriptureReference": "Exodus 22-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 20,
+    "dayLabel": "DAY 20",
+    "calendarDate": "JAN 24",
+    "scriptureReference": "Exodus 29-34",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 21,
+    "dayLabel": "DAY 21",
+    "calendarDate": "JAN 25",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 22,
+    "dayLabel": "DAY 22",
+    "calendarDate": "JAN 26",
+    "scriptureReference": "Exodus 35-40",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 23,
+    "dayLabel": "DAY 23",
+    "calendarDate": "JAN 27",
+    "scriptureReference": "Mark 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 24,
+    "dayLabel": "DAY 24",
+    "calendarDate": "JAN 28",
+    "scriptureReference": "Mark 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 25,
+    "dayLabel": "DAY 25",
+    "calendarDate": "JAN 29",
+    "scriptureReference": "Mark 11-16",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 26,
+    "dayLabel": "DAY 26",
+    "calendarDate": "JAN 30",
+    "scriptureReference": "Leviticus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 27,
+    "dayLabel": "DAY 27",
+    "calendarDate": "JAN 31",
+    "scriptureReference": "Leviticus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 28,
+    "dayLabel": "DAY 28",
+    "calendarDate": "FEB 1",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 29,
+    "dayLabel": "DAY 29",
+    "calendarDate": "FEB 2",
+    "scriptureReference": "Leviticus 15-20",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 30,
+    "dayLabel": "DAY 30",
+    "calendarDate": "FEB 3",
+    "scriptureReference": "Leviticus 21-27",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 31,
+    "dayLabel": "DAY 31",
+    "calendarDate": "FEB 4",
+    "scriptureReference": "Luke 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 32,
+    "dayLabel": "DAY 32",
+    "calendarDate": "FEB 5",
+    "scriptureReference": "Luke 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 33,
+    "dayLabel": "DAY 33",
+    "calendarDate": "FEB 6",
+    "scriptureReference": "Luke 11-15",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 34,
+    "dayLabel": "DAY 34",
+    "calendarDate": "FEB 7",
+    "scriptureReference": "Luke 16-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 35,
+    "dayLabel": "DAY 35",
+    "calendarDate": "FEB 8",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 36,
+    "dayLabel": "DAY 36",
+    "calendarDate": "FEB 9",
+    "scriptureReference": "Luke 20-24",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 37,
+    "dayLabel": "DAY 37",
+    "calendarDate": "FEB 10",
+    "scriptureReference": "Numbers 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 38,
+    "dayLabel": "DAY 38",
+    "calendarDate": "FEB 11",
+    "scriptureReference": "Numbers 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 39,
+    "dayLabel": "DAY 39",
+    "calendarDate": "FEB 12",
+    "scriptureReference": "Numbers 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 40,
+    "dayLabel": "DAY 40",
+    "calendarDate": "FEB 13",
+    "scriptureReference": "Numbers 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 41,
+    "dayLabel": "DAY 41",
+    "calendarDate": "FEB 14",
+    "scriptureReference": "Numbers 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 42,
+    "dayLabel": "DAY 42",
+    "calendarDate": "FEB 15",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 43,
+    "dayLabel": "DAY 43",
+    "calendarDate": "FEB 16",
+    "scriptureReference": "Numbers 32-36",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 44,
+    "dayLabel": "DAY 44",
+    "calendarDate": "FEB 17",
+    "scriptureReference": "John 1-4",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 45,
+    "dayLabel": "DAY 45",
+    "calendarDate": "FEB 18",
+    "scriptureReference": "John 5-8",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 46,
+    "dayLabel": "DAY 46",
+    "calendarDate": "FEB 19",
+    "scriptureReference": "John 9-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 47,
+    "dayLabel": "DAY 47",
+    "calendarDate": "FEB 20",
+    "scriptureReference": "John 13-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 48,
+    "dayLabel": "DAY 48",
+    "calendarDate": "FEB 21",
+    "scriptureReference": "John 18-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 49,
+    "dayLabel": "DAY 49",
+    "calendarDate": "FEB 22",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 50,
+    "dayLabel": "DAY 50",
+    "calendarDate": "FEB 23",
+    "scriptureReference": "Genesis 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 51,
+    "dayLabel": "DAY 51",
+    "calendarDate": "FEB 24",
+    "scriptureReference": "Genesis 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 52,
+    "dayLabel": "DAY 52",
+    "calendarDate": "FEB 25",
+    "scriptureReference": "Genesis 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 53,
+    "dayLabel": "DAY 53",
+    "calendarDate": "FEB 26",
+    "scriptureReference": "Genesis 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 54,
+    "dayLabel": "DAY 54",
+    "calendarDate": "FEB 27",
+    "scriptureReference": "Genesis 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 55,
+    "dayLabel": "DAY 55",
+    "calendarDate": "FEB 28",
+    "scriptureReference": "Genesis 32-37",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 56,
+    "dayLabel": "DAY 56",
+    "calendarDate": "MAR 1",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 57,
+    "dayLabel": "DAY 57",
+    "calendarDate": "MAR 2",
+    "scriptureReference": "Genesis 38-44",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 58,
+    "dayLabel": "DAY 58",
+    "calendarDate": "MAR 3",
+    "scriptureReference": "Genesis 45-50",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 59,
+    "dayLabel": "DAY 59",
+    "calendarDate": "MAR 4",
+    "scriptureReference": "Matthew 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 60,
+    "dayLabel": "DAY 60",
+    "calendarDate": "MAR 5",
+    "scriptureReference": "Matthew 6-11",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 61,
+    "dayLabel": "DAY 61",
+    "calendarDate": "MAR 6",
+    "scriptureReference": "Matthew 12-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 62,
+    "dayLabel": "DAY 62",
+    "calendarDate": "MAR 7",
+    "scriptureReference": "Matthew 18-23",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 63,
+    "dayLabel": "DAY 63",
+    "calendarDate": "MAR 8",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 64,
+    "dayLabel": "DAY 64",
+    "calendarDate": "MAR 9",
+    "scriptureReference": "Matthew 24-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 65,
+    "dayLabel": "DAY 65",
+    "calendarDate": "MAR 10",
+    "scriptureReference": "Exodus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 66,
+    "dayLabel": "DAY 66",
+    "calendarDate": "MAR 11",
+    "scriptureReference": "Exodus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 67,
+    "dayLabel": "DAY 67",
+    "calendarDate": "MAR 12",
+    "scriptureReference": "Exodus 15-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 68,
+    "dayLabel": "DAY 68",
+    "calendarDate": "MAR 13",
+    "scriptureReference": "Exodus 22-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 69,
+    "dayLabel": "DAY 69",
+    "calendarDate": "MAR 14",
+    "scriptureReference": "Exodus 29-34",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 70,
+    "dayLabel": "DAY 70",
+    "calendarDate": "MAR 15",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 71,
+    "dayLabel": "DAY 71",
+    "calendarDate": "MAR 16",
+    "scriptureReference": "Exodus 35-40",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 72,
+    "dayLabel": "DAY 72",
+    "calendarDate": "MAR 17",
+    "scriptureReference": "Mark 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 73,
+    "dayLabel": "DAY 73",
+    "calendarDate": "MAR 18",
+    "scriptureReference": "Mark 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 74,
+    "dayLabel": "DAY 74",
+    "calendarDate": "MAR 19",
+    "scriptureReference": "Mark 11-16",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 75,
+    "dayLabel": "DAY 75",
+    "calendarDate": "MAR 20",
+    "scriptureReference": "Leviticus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 76,
+    "dayLabel": "DAY 76",
+    "calendarDate": "MAR 21",
+    "scriptureReference": "Leviticus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 77,
+    "dayLabel": "DAY 77",
+    "calendarDate": "MAR 22",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 78,
+    "dayLabel": "DAY 78",
+    "calendarDate": "MAR 23",
+    "scriptureReference": "Leviticus 15-20",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 79,
+    "dayLabel": "DAY 79",
+    "calendarDate": "MAR 24",
+    "scriptureReference": "Leviticus 21-27",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 80,
+    "dayLabel": "DAY 80",
+    "calendarDate": "MAR 25",
+    "scriptureReference": "Luke 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 81,
+    "dayLabel": "DAY 81",
+    "calendarDate": "MAR 26",
+    "scriptureReference": "Luke 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 82,
+    "dayLabel": "DAY 82",
+    "calendarDate": "MAR 27",
+    "scriptureReference": "Luke 11-15",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 83,
+    "dayLabel": "DAY 83",
+    "calendarDate": "MAR 28",
+    "scriptureReference": "Luke 16-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 84,
+    "dayLabel": "DAY 84",
+    "calendarDate": "MAR 29",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 85,
+    "dayLabel": "DAY 85",
+    "calendarDate": "MAR 30",
+    "scriptureReference": "Luke 20-24",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 86,
+    "dayLabel": "DAY 86",
+    "calendarDate": "MAR 31",
+    "scriptureReference": "Numbers 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 87,
+    "dayLabel": "DAY 87",
+    "calendarDate": "APR 1",
+    "scriptureReference": "Numbers 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 88,
+    "dayLabel": "DAY 88",
+    "calendarDate": "APR 2",
+    "scriptureReference": "Numbers 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 89,
+    "dayLabel": "DAY 89",
+    "calendarDate": "APR 3",
+    "scriptureReference": "Numbers 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 90,
+    "dayLabel": "DAY 90",
+    "calendarDate": "APR 4",
+    "scriptureReference": "Numbers 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 91,
+    "dayLabel": "DAY 91",
+    "calendarDate": "APR 5",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 92,
+    "dayLabel": "DAY 92",
+    "calendarDate": "APR 6",
+    "scriptureReference": "Numbers 32-36",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 93,
+    "dayLabel": "DAY 93",
+    "calendarDate": "APR 7",
+    "scriptureReference": "John 1-4",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 94,
+    "dayLabel": "DAY 94",
+    "calendarDate": "APR 8",
+    "scriptureReference": "John 5-8",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 95,
+    "dayLabel": "DAY 95",
+    "calendarDate": "APR 9",
+    "scriptureReference": "John 9-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 96,
+    "dayLabel": "DAY 96",
+    "calendarDate": "APR 10",
+    "scriptureReference": "John 13-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 97,
+    "dayLabel": "DAY 97",
+    "calendarDate": "APR 11",
+    "scriptureReference": "John 18-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 98,
+    "dayLabel": "DAY 98",
+    "calendarDate": "APR 12",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 99,
+    "dayLabel": "DAY 99",
+    "calendarDate": "APR 13",
+    "scriptureReference": "Genesis 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 100,
+    "dayLabel": "DAY 100",
+    "calendarDate": "APR 14",
+    "scriptureReference": "Genesis 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 101,
+    "dayLabel": "DAY 101",
+    "calendarDate": "APR 15",
+    "scriptureReference": "Genesis 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 102,
+    "dayLabel": "DAY 102",
+    "calendarDate": "APR 16",
+    "scriptureReference": "Genesis 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 103,
+    "dayLabel": "DAY 103",
+    "calendarDate": "APR 17",
+    "scriptureReference": "Genesis 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 104,
+    "dayLabel": "DAY 104",
+    "calendarDate": "APR 18",
+    "scriptureReference": "Genesis 32-37",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 105,
+    "dayLabel": "DAY 105",
+    "calendarDate": "APR 19",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 106,
+    "dayLabel": "DAY 106",
+    "calendarDate": "APR 20",
+    "scriptureReference": "Genesis 38-44",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 107,
+    "dayLabel": "DAY 107",
+    "calendarDate": "APR 21",
+    "scriptureReference": "Genesis 45-50",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 108,
+    "dayLabel": "DAY 108",
+    "calendarDate": "APR 22",
+    "scriptureReference": "Matthew 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 109,
+    "dayLabel": "DAY 109",
+    "calendarDate": "APR 23",
+    "scriptureReference": "Matthew 6-11",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 110,
+    "dayLabel": "DAY 110",
+    "calendarDate": "APR 24",
+    "scriptureReference": "Matthew 12-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 111,
+    "dayLabel": "DAY 111",
+    "calendarDate": "APR 25",
+    "scriptureReference": "Matthew 18-23",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 112,
+    "dayLabel": "DAY 112",
+    "calendarDate": "APR 26",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 113,
+    "dayLabel": "DAY 113",
+    "calendarDate": "APR 27",
+    "scriptureReference": "Matthew 24-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 114,
+    "dayLabel": "DAY 114",
+    "calendarDate": "APR 28",
+    "scriptureReference": "Exodus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 115,
+    "dayLabel": "DAY 115",
+    "calendarDate": "APR 29",
+    "scriptureReference": "Exodus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 116,
+    "dayLabel": "DAY 116",
+    "calendarDate": "APR 30",
+    "scriptureReference": "Exodus 15-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 117,
+    "dayLabel": "DAY 117",
+    "calendarDate": "MAY 1",
+    "scriptureReference": "Exodus 22-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 118,
+    "dayLabel": "DAY 118",
+    "calendarDate": "MAY 2",
+    "scriptureReference": "Exodus 29-34",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 119,
+    "dayLabel": "DAY 119",
+    "calendarDate": "MAY 3",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 120,
+    "dayLabel": "DAY 120",
+    "calendarDate": "MAY 4",
+    "scriptureReference": "Exodus 35-40",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 121,
+    "dayLabel": "DAY 121",
+    "calendarDate": "MAY 5",
+    "scriptureReference": "Mark 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 122,
+    "dayLabel": "DAY 122",
+    "calendarDate": "MAY 6",
+    "scriptureReference": "Mark 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 123,
+    "dayLabel": "DAY 123",
+    "calendarDate": "MAY 7",
+    "scriptureReference": "Mark 11-16",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 124,
+    "dayLabel": "DAY 124",
+    "calendarDate": "MAY 8",
+    "scriptureReference": "Leviticus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 125,
+    "dayLabel": "DAY 125",
+    "calendarDate": "MAY 9",
+    "scriptureReference": "Leviticus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 126,
+    "dayLabel": "DAY 126",
+    "calendarDate": "MAY 10",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 127,
+    "dayLabel": "DAY 127",
+    "calendarDate": "MAY 11",
+    "scriptureReference": "Leviticus 15-20",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 128,
+    "dayLabel": "DAY 128",
+    "calendarDate": "MAY 12",
+    "scriptureReference": "Leviticus 21-27",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 129,
+    "dayLabel": "DAY 129",
+    "calendarDate": "MAY 13",
+    "scriptureReference": "Luke 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 130,
+    "dayLabel": "DAY 130",
+    "calendarDate": "MAY 14",
+    "scriptureReference": "Luke 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 131,
+    "dayLabel": "DAY 131",
+    "calendarDate": "MAY 15",
+    "scriptureReference": "Luke 11-15",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 132,
+    "dayLabel": "DAY 132",
+    "calendarDate": "MAY 16",
+    "scriptureReference": "Luke 16-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 133,
+    "dayLabel": "DAY 133",
+    "calendarDate": "MAY 17",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 134,
+    "dayLabel": "DAY 134",
+    "calendarDate": "MAY 18",
+    "scriptureReference": "Luke 20-24",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 135,
+    "dayLabel": "DAY 135",
+    "calendarDate": "MAY 19",
+    "scriptureReference": "Numbers 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 136,
+    "dayLabel": "DAY 136",
+    "calendarDate": "MAY 20",
+    "scriptureReference": "Numbers 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 137,
+    "dayLabel": "DAY 137",
+    "calendarDate": "MAY 21",
+    "scriptureReference": "Numbers 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 138,
+    "dayLabel": "DAY 138",
+    "calendarDate": "MAY 22",
+    "scriptureReference": "Numbers 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 139,
+    "dayLabel": "DAY 139",
+    "calendarDate": "MAY 23",
+    "scriptureReference": "Numbers 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 140,
+    "dayLabel": "DAY 140",
+    "calendarDate": "MAY 24",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 141,
+    "dayLabel": "DAY 141",
+    "calendarDate": "MAY 25",
+    "scriptureReference": "Numbers 32-36",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 142,
+    "dayLabel": "DAY 142",
+    "calendarDate": "MAY 26",
+    "scriptureReference": "John 1-4",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 143,
+    "dayLabel": "DAY 143",
+    "calendarDate": "MAY 27",
+    "scriptureReference": "John 5-8",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 144,
+    "dayLabel": "DAY 144",
+    "calendarDate": "MAY 28",
+    "scriptureReference": "John 9-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 145,
+    "dayLabel": "DAY 145",
+    "calendarDate": "MAY 29",
+    "scriptureReference": "John 13-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 146,
+    "dayLabel": "DAY 146",
+    "calendarDate": "MAY 30",
+    "scriptureReference": "John 18-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 147,
+    "dayLabel": "DAY 147",
+    "calendarDate": "MAY 31",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 148,
+    "dayLabel": "DAY 148",
+    "calendarDate": "JUN 1",
+    "scriptureReference": "Genesis 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 149,
+    "dayLabel": "DAY 149",
+    "calendarDate": "JUN 2",
+    "scriptureReference": "Genesis 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 150,
+    "dayLabel": "DAY 150",
+    "calendarDate": "JUN 3",
+    "scriptureReference": "Genesis 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 151,
+    "dayLabel": "DAY 151",
+    "calendarDate": "JUN 4",
+    "scriptureReference": "Genesis 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 152,
+    "dayLabel": "DAY 152",
+    "calendarDate": "JUN 5",
+    "scriptureReference": "Genesis 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 153,
+    "dayLabel": "DAY 153",
+    "calendarDate": "JUN 6",
+    "scriptureReference": "Genesis 32-37",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 154,
+    "dayLabel": "DAY 154",
+    "calendarDate": "JUN 7",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 155,
+    "dayLabel": "DAY 155",
+    "calendarDate": "JUN 8",
+    "scriptureReference": "Genesis 38-44",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 156,
+    "dayLabel": "DAY 156",
+    "calendarDate": "JUN 9",
+    "scriptureReference": "Genesis 45-50",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 157,
+    "dayLabel": "DAY 157",
+    "calendarDate": "JUN 10",
+    "scriptureReference": "Matthew 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 158,
+    "dayLabel": "DAY 158",
+    "calendarDate": "JUN 11",
+    "scriptureReference": "Matthew 6-11",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 159,
+    "dayLabel": "DAY 159",
+    "calendarDate": "JUN 12",
+    "scriptureReference": "Matthew 12-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 160,
+    "dayLabel": "DAY 160",
+    "calendarDate": "JUN 13",
+    "scriptureReference": "Matthew 18-23",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 161,
+    "dayLabel": "DAY 161",
+    "calendarDate": "JUN 14",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 162,
+    "dayLabel": "DAY 162",
+    "calendarDate": "JUN 15",
+    "scriptureReference": "Matthew 24-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 163,
+    "dayLabel": "DAY 163",
+    "calendarDate": "JUN 16",
+    "scriptureReference": "Exodus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 164,
+    "dayLabel": "DAY 164",
+    "calendarDate": "JUN 17",
+    "scriptureReference": "Exodus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 165,
+    "dayLabel": "DAY 165",
+    "calendarDate": "JUN 18",
+    "scriptureReference": "Exodus 15-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 166,
+    "dayLabel": "DAY 166",
+    "calendarDate": "JUN 19",
+    "scriptureReference": "Exodus 22-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 167,
+    "dayLabel": "DAY 167",
+    "calendarDate": "JUN 20",
+    "scriptureReference": "Exodus 29-34",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 168,
+    "dayLabel": "DAY 168",
+    "calendarDate": "JUN 21",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 169,
+    "dayLabel": "DAY 169",
+    "calendarDate": "JUN 22",
+    "scriptureReference": "Exodus 35-40",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 170,
+    "dayLabel": "DAY 170",
+    "calendarDate": "JUN 23",
+    "scriptureReference": "Mark 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 171,
+    "dayLabel": "DAY 171",
+    "calendarDate": "JUN 24",
+    "scriptureReference": "Mark 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 172,
+    "dayLabel": "DAY 172",
+    "calendarDate": "JUN 25",
+    "scriptureReference": "Mark 11-16",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 173,
+    "dayLabel": "DAY 173",
+    "calendarDate": "JUN 26",
+    "scriptureReference": "Leviticus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 174,
+    "dayLabel": "DAY 174",
+    "calendarDate": "JUN 27",
+    "scriptureReference": "Leviticus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 175,
+    "dayLabel": "DAY 175",
+    "calendarDate": "JUN 28",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 176,
+    "dayLabel": "DAY 176",
+    "calendarDate": "JUN 29",
+    "scriptureReference": "Leviticus 15-20",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 177,
+    "dayLabel": "DAY 177",
+    "calendarDate": "JUN 30",
+    "scriptureReference": "Leviticus 21-27",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 178,
+    "dayLabel": "DAY 178",
+    "calendarDate": "JUL 1",
+    "scriptureReference": "Luke 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 179,
+    "dayLabel": "DAY 179",
+    "calendarDate": "JUL 2",
+    "scriptureReference": "Luke 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 180,
+    "dayLabel": "DAY 180",
+    "calendarDate": "JUL 3",
+    "scriptureReference": "Luke 11-15",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 181,
+    "dayLabel": "DAY 181",
+    "calendarDate": "JUL 4",
+    "scriptureReference": "Luke 16-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 182,
+    "dayLabel": "DAY 182",
+    "calendarDate": "JUL 5",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 183,
+    "dayLabel": "DAY 183",
+    "calendarDate": "JUL 6",
+    "scriptureReference": "Luke 20-24",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 184,
+    "dayLabel": "DAY 184",
+    "calendarDate": "JUL 7",
+    "scriptureReference": "Numbers 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 185,
+    "dayLabel": "DAY 185",
+    "calendarDate": "JUL 8",
+    "scriptureReference": "Numbers 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 186,
+    "dayLabel": "DAY 186",
+    "calendarDate": "JUL 9",
+    "scriptureReference": "Numbers 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 187,
+    "dayLabel": "DAY 187",
+    "calendarDate": "JUL 10",
+    "scriptureReference": "Numbers 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 188,
+    "dayLabel": "DAY 188",
+    "calendarDate": "JUL 11",
+    "scriptureReference": "Numbers 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 189,
+    "dayLabel": "DAY 189",
+    "calendarDate": "JUL 12",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 190,
+    "dayLabel": "DAY 190",
+    "calendarDate": "JUL 13",
+    "scriptureReference": "Numbers 32-36",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 191,
+    "dayLabel": "DAY 191",
+    "calendarDate": "JUL 14",
+    "scriptureReference": "John 1-4",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 192,
+    "dayLabel": "DAY 192",
+    "calendarDate": "JUL 15",
+    "scriptureReference": "John 5-8",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 193,
+    "dayLabel": "DAY 193",
+    "calendarDate": "JUL 16",
+    "scriptureReference": "John 9-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 194,
+    "dayLabel": "DAY 194",
+    "calendarDate": "JUL 17",
+    "scriptureReference": "John 13-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 195,
+    "dayLabel": "DAY 195",
+    "calendarDate": "JUL 18",
+    "scriptureReference": "John 18-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 196,
+    "dayLabel": "DAY 196",
+    "calendarDate": "JUL 19",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 197,
+    "dayLabel": "DAY 197",
+    "calendarDate": "JUL 20",
+    "scriptureReference": "Genesis 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 198,
+    "dayLabel": "DAY 198",
+    "calendarDate": "JUL 21",
+    "scriptureReference": "Genesis 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 199,
+    "dayLabel": "DAY 199",
+    "calendarDate": "JUL 22",
+    "scriptureReference": "Genesis 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 200,
+    "dayLabel": "DAY 200",
+    "calendarDate": "JUL 23",
+    "scriptureReference": "Genesis 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 201,
+    "dayLabel": "DAY 201",
+    "calendarDate": "JUL 24",
+    "scriptureReference": "Genesis 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 202,
+    "dayLabel": "DAY 202",
+    "calendarDate": "JUL 25",
+    "scriptureReference": "Genesis 32-37",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 203,
+    "dayLabel": "DAY 203",
+    "calendarDate": "JUL 26",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 204,
+    "dayLabel": "DAY 204",
+    "calendarDate": "JUL 27",
+    "scriptureReference": "Genesis 38-44",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 205,
+    "dayLabel": "DAY 205",
+    "calendarDate": "JUL 28",
+    "scriptureReference": "Genesis 45-50",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 206,
+    "dayLabel": "DAY 206",
+    "calendarDate": "JUL 29",
+    "scriptureReference": "Matthew 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 207,
+    "dayLabel": "DAY 207",
+    "calendarDate": "JUL 30",
+    "scriptureReference": "Matthew 6-11",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 208,
+    "dayLabel": "DAY 208",
+    "calendarDate": "JUL 31",
+    "scriptureReference": "Matthew 12-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 209,
+    "dayLabel": "DAY 209",
+    "calendarDate": "AUG 1",
+    "scriptureReference": "Matthew 18-23",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 210,
+    "dayLabel": "DAY 210",
+    "calendarDate": "AUG 2",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 211,
+    "dayLabel": "DAY 211",
+    "calendarDate": "AUG 3",
+    "scriptureReference": "Matthew 24-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 212,
+    "dayLabel": "DAY 212",
+    "calendarDate": "AUG 4",
+    "scriptureReference": "Exodus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 213,
+    "dayLabel": "DAY 213",
+    "calendarDate": "AUG 5",
+    "scriptureReference": "Exodus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 214,
+    "dayLabel": "DAY 214",
+    "calendarDate": "AUG 6",
+    "scriptureReference": "Exodus 15-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 215,
+    "dayLabel": "DAY 215",
+    "calendarDate": "AUG 7",
+    "scriptureReference": "Exodus 22-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 216,
+    "dayLabel": "DAY 216",
+    "calendarDate": "AUG 8",
+    "scriptureReference": "Exodus 29-34",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 217,
+    "dayLabel": "DAY 217",
+    "calendarDate": "AUG 9",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 218,
+    "dayLabel": "DAY 218",
+    "calendarDate": "AUG 10",
+    "scriptureReference": "Exodus 35-40",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 219,
+    "dayLabel": "DAY 219",
+    "calendarDate": "AUG 11",
+    "scriptureReference": "Mark 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 220,
+    "dayLabel": "DAY 220",
+    "calendarDate": "AUG 12",
+    "scriptureReference": "Mark 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 221,
+    "dayLabel": "DAY 221",
+    "calendarDate": "AUG 13",
+    "scriptureReference": "Mark 11-16",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 222,
+    "dayLabel": "DAY 222",
+    "calendarDate": "AUG 14",
+    "scriptureReference": "Leviticus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 223,
+    "dayLabel": "DAY 223",
+    "calendarDate": "AUG 15",
+    "scriptureReference": "Leviticus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 224,
+    "dayLabel": "DAY 224",
+    "calendarDate": "AUG 16",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 225,
+    "dayLabel": "DAY 225",
+    "calendarDate": "AUG 17",
+    "scriptureReference": "Leviticus 15-20",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 226,
+    "dayLabel": "DAY 226",
+    "calendarDate": "AUG 18",
+    "scriptureReference": "Leviticus 21-27",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 227,
+    "dayLabel": "DAY 227",
+    "calendarDate": "AUG 19",
+    "scriptureReference": "Luke 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 228,
+    "dayLabel": "DAY 228",
+    "calendarDate": "AUG 20",
+    "scriptureReference": "Luke 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 229,
+    "dayLabel": "DAY 229",
+    "calendarDate": "AUG 21",
+    "scriptureReference": "Luke 11-15",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 230,
+    "dayLabel": "DAY 230",
+    "calendarDate": "AUG 22",
+    "scriptureReference": "Luke 16-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 231,
+    "dayLabel": "DAY 231",
+    "calendarDate": "AUG 23",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 232,
+    "dayLabel": "DAY 232",
+    "calendarDate": "AUG 24",
+    "scriptureReference": "Luke 20-24",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 233,
+    "dayLabel": "DAY 233",
+    "calendarDate": "AUG 25",
+    "scriptureReference": "Numbers 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 234,
+    "dayLabel": "DAY 234",
+    "calendarDate": "AUG 26",
+    "scriptureReference": "Numbers 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 235,
+    "dayLabel": "DAY 235",
+    "calendarDate": "AUG 27",
+    "scriptureReference": "Numbers 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 236,
+    "dayLabel": "DAY 236",
+    "calendarDate": "AUG 28",
+    "scriptureReference": "Numbers 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 237,
+    "dayLabel": "DAY 237",
+    "calendarDate": "AUG 29",
+    "scriptureReference": "Numbers 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 238,
+    "dayLabel": "DAY 238",
+    "calendarDate": "AUG 30",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 239,
+    "dayLabel": "DAY 239",
+    "calendarDate": "AUG 31",
+    "scriptureReference": "Numbers 32-36",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 240,
+    "dayLabel": "DAY 240",
+    "calendarDate": "SEP 1",
+    "scriptureReference": "John 1-4",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 241,
+    "dayLabel": "DAY 241",
+    "calendarDate": "SEP 2",
+    "scriptureReference": "John 5-8",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 242,
+    "dayLabel": "DAY 242",
+    "calendarDate": "SEP 3",
+    "scriptureReference": "John 9-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 243,
+    "dayLabel": "DAY 243",
+    "calendarDate": "SEP 4",
+    "scriptureReference": "John 13-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 244,
+    "dayLabel": "DAY 244",
+    "calendarDate": "SEP 5",
+    "scriptureReference": "John 18-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 245,
+    "dayLabel": "DAY 245",
+    "calendarDate": "SEP 6",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 246,
+    "dayLabel": "DAY 246",
+    "calendarDate": "SEP 7",
+    "scriptureReference": "Genesis 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 247,
+    "dayLabel": "DAY 247",
+    "calendarDate": "SEP 8",
+    "scriptureReference": "Genesis 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 248,
+    "dayLabel": "DAY 248",
+    "calendarDate": "SEP 9",
+    "scriptureReference": "Genesis 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 249,
+    "dayLabel": "DAY 249",
+    "calendarDate": "SEP 10",
+    "scriptureReference": "Genesis 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 250,
+    "dayLabel": "DAY 250",
+    "calendarDate": "SEP 11",
+    "scriptureReference": "Genesis 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 251,
+    "dayLabel": "DAY 251",
+    "calendarDate": "SEP 12",
+    "scriptureReference": "Genesis 32-37",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 252,
+    "dayLabel": "DAY 252",
+    "calendarDate": "SEP 13",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 253,
+    "dayLabel": "DAY 253",
+    "calendarDate": "SEP 14",
+    "scriptureReference": "Genesis 38-44",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 254,
+    "dayLabel": "DAY 254",
+    "calendarDate": "SEP 15",
+    "scriptureReference": "Genesis 45-50",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 255,
+    "dayLabel": "DAY 255",
+    "calendarDate": "SEP 16",
+    "scriptureReference": "Matthew 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 256,
+    "dayLabel": "DAY 256",
+    "calendarDate": "SEP 17",
+    "scriptureReference": "Matthew 6-11",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 257,
+    "dayLabel": "DAY 257",
+    "calendarDate": "SEP 18",
+    "scriptureReference": "Matthew 12-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 258,
+    "dayLabel": "DAY 258",
+    "calendarDate": "SEP 19",
+    "scriptureReference": "Matthew 18-23",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 259,
+    "dayLabel": "DAY 259",
+    "calendarDate": "SEP 20",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 260,
+    "dayLabel": "DAY 260",
+    "calendarDate": "SEP 21",
+    "scriptureReference": "Matthew 24-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 261,
+    "dayLabel": "DAY 261",
+    "calendarDate": "SEP 22",
+    "scriptureReference": "Exodus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 262,
+    "dayLabel": "DAY 262",
+    "calendarDate": "SEP 23",
+    "scriptureReference": "Exodus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 263,
+    "dayLabel": "DAY 263",
+    "calendarDate": "SEP 24",
+    "scriptureReference": "Exodus 15-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 264,
+    "dayLabel": "DAY 264",
+    "calendarDate": "SEP 25",
+    "scriptureReference": "Exodus 22-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 265,
+    "dayLabel": "DAY 265",
+    "calendarDate": "SEP 26",
+    "scriptureReference": "Exodus 29-34",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 266,
+    "dayLabel": "DAY 266",
+    "calendarDate": "SEP 27",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 267,
+    "dayLabel": "DAY 267",
+    "calendarDate": "SEP 28",
+    "scriptureReference": "Exodus 35-40",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 268,
+    "dayLabel": "DAY 268",
+    "calendarDate": "SEP 29",
+    "scriptureReference": "Mark 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 269,
+    "dayLabel": "DAY 269",
+    "calendarDate": "SEP 30",
+    "scriptureReference": "Mark 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 270,
+    "dayLabel": "DAY 270",
+    "calendarDate": "OCT 1",
+    "scriptureReference": "Mark 11-16",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 271,
+    "dayLabel": "DAY 271",
+    "calendarDate": "OCT 2",
+    "scriptureReference": "Leviticus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 272,
+    "dayLabel": "DAY 272",
+    "calendarDate": "OCT 3",
+    "scriptureReference": "Leviticus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 273,
+    "dayLabel": "DAY 273",
+    "calendarDate": "OCT 4",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 274,
+    "dayLabel": "DAY 274",
+    "calendarDate": "OCT 5",
+    "scriptureReference": "Leviticus 15-20",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 275,
+    "dayLabel": "DAY 275",
+    "calendarDate": "OCT 6",
+    "scriptureReference": "Leviticus 21-27",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 276,
+    "dayLabel": "DAY 276",
+    "calendarDate": "OCT 7",
+    "scriptureReference": "Luke 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 277,
+    "dayLabel": "DAY 277",
+    "calendarDate": "OCT 8",
+    "scriptureReference": "Luke 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 278,
+    "dayLabel": "DAY 278",
+    "calendarDate": "OCT 9",
+    "scriptureReference": "Luke 11-15",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 279,
+    "dayLabel": "DAY 279",
+    "calendarDate": "OCT 10",
+    "scriptureReference": "Luke 16-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 280,
+    "dayLabel": "DAY 280",
+    "calendarDate": "OCT 11",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 281,
+    "dayLabel": "DAY 281",
+    "calendarDate": "OCT 12",
+    "scriptureReference": "Luke 20-24",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 282,
+    "dayLabel": "DAY 282",
+    "calendarDate": "OCT 13",
+    "scriptureReference": "Numbers 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 283,
+    "dayLabel": "DAY 283",
+    "calendarDate": "OCT 14",
+    "scriptureReference": "Numbers 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 284,
+    "dayLabel": "DAY 284",
+    "calendarDate": "OCT 15",
+    "scriptureReference": "Numbers 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 285,
+    "dayLabel": "DAY 285",
+    "calendarDate": "OCT 16",
+    "scriptureReference": "Numbers 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 286,
+    "dayLabel": "DAY 286",
+    "calendarDate": "OCT 17",
+    "scriptureReference": "Numbers 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 287,
+    "dayLabel": "DAY 287",
+    "calendarDate": "OCT 18",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 288,
+    "dayLabel": "DAY 288",
+    "calendarDate": "OCT 19",
+    "scriptureReference": "Numbers 32-36",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 289,
+    "dayLabel": "DAY 289",
+    "calendarDate": "OCT 20",
+    "scriptureReference": "John 1-4",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 290,
+    "dayLabel": "DAY 290",
+    "calendarDate": "OCT 21",
+    "scriptureReference": "John 5-8",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 291,
+    "dayLabel": "DAY 291",
+    "calendarDate": "OCT 22",
+    "scriptureReference": "John 9-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 292,
+    "dayLabel": "DAY 292",
+    "calendarDate": "OCT 23",
+    "scriptureReference": "John 13-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 293,
+    "dayLabel": "DAY 293",
+    "calendarDate": "OCT 24",
+    "scriptureReference": "John 18-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 294,
+    "dayLabel": "DAY 294",
+    "calendarDate": "OCT 25",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 295,
+    "dayLabel": "DAY 295",
+    "calendarDate": "OCT 26",
+    "scriptureReference": "Genesis 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 296,
+    "dayLabel": "DAY 296",
+    "calendarDate": "OCT 27",
+    "scriptureReference": "Genesis 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 297,
+    "dayLabel": "DAY 297",
+    "calendarDate": "OCT 28",
+    "scriptureReference": "Genesis 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 298,
+    "dayLabel": "DAY 298",
+    "calendarDate": "OCT 29",
+    "scriptureReference": "Genesis 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 299,
+    "dayLabel": "DAY 299",
+    "calendarDate": "OCT 30",
+    "scriptureReference": "Genesis 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 300,
+    "dayLabel": "DAY 300",
+    "calendarDate": "OCT 31",
+    "scriptureReference": "Genesis 32-37",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 301,
+    "dayLabel": "DAY 301",
+    "calendarDate": "NOV 1",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 302,
+    "dayLabel": "DAY 302",
+    "calendarDate": "NOV 2",
+    "scriptureReference": "Genesis 38-44",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 303,
+    "dayLabel": "DAY 303",
+    "calendarDate": "NOV 3",
+    "scriptureReference": "Genesis 45-50",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 304,
+    "dayLabel": "DAY 304",
+    "calendarDate": "NOV 4",
+    "scriptureReference": "Matthew 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 305,
+    "dayLabel": "DAY 305",
+    "calendarDate": "NOV 5",
+    "scriptureReference": "Matthew 6-11",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 306,
+    "dayLabel": "DAY 306",
+    "calendarDate": "NOV 6",
+    "scriptureReference": "Matthew 12-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 307,
+    "dayLabel": "DAY 307",
+    "calendarDate": "NOV 7",
+    "scriptureReference": "Matthew 18-23",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 308,
+    "dayLabel": "DAY 308",
+    "calendarDate": "NOV 8",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 309,
+    "dayLabel": "DAY 309",
+    "calendarDate": "NOV 9",
+    "scriptureReference": "Matthew 24-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 310,
+    "dayLabel": "DAY 310",
+    "calendarDate": "NOV 10",
+    "scriptureReference": "Exodus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 311,
+    "dayLabel": "DAY 311",
+    "calendarDate": "NOV 11",
+    "scriptureReference": "Exodus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 312,
+    "dayLabel": "DAY 312",
+    "calendarDate": "NOV 12",
+    "scriptureReference": "Exodus 15-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 313,
+    "dayLabel": "DAY 313",
+    "calendarDate": "NOV 13",
+    "scriptureReference": "Exodus 22-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 314,
+    "dayLabel": "DAY 314",
+    "calendarDate": "NOV 14",
+    "scriptureReference": "Exodus 29-34",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 315,
+    "dayLabel": "DAY 315",
+    "calendarDate": "NOV 15",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 316,
+    "dayLabel": "DAY 316",
+    "calendarDate": "NOV 16",
+    "scriptureReference": "Exodus 35-40",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 317,
+    "dayLabel": "DAY 317",
+    "calendarDate": "NOV 17",
+    "scriptureReference": "Mark 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 318,
+    "dayLabel": "DAY 318",
+    "calendarDate": "NOV 18",
+    "scriptureReference": "Mark 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 319,
+    "dayLabel": "DAY 319",
+    "calendarDate": "NOV 19",
+    "scriptureReference": "Mark 11-16",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 320,
+    "dayLabel": "DAY 320",
+    "calendarDate": "NOV 20",
+    "scriptureReference": "Leviticus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 321,
+    "dayLabel": "DAY 321",
+    "calendarDate": "NOV 21",
+    "scriptureReference": "Leviticus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 322,
+    "dayLabel": "DAY 322",
+    "calendarDate": "NOV 22",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 323,
+    "dayLabel": "DAY 323",
+    "calendarDate": "NOV 23",
+    "scriptureReference": "Leviticus 15-20",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 324,
+    "dayLabel": "DAY 324",
+    "calendarDate": "NOV 24",
+    "scriptureReference": "Leviticus 21-27",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 325,
+    "dayLabel": "DAY 325",
+    "calendarDate": "NOV 25",
+    "scriptureReference": "Luke 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 326,
+    "dayLabel": "DAY 326",
+    "calendarDate": "NOV 26",
+    "scriptureReference": "Luke 6-10",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 327,
+    "dayLabel": "DAY 327",
+    "calendarDate": "NOV 27",
+    "scriptureReference": "Luke 11-15",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 328,
+    "dayLabel": "DAY 328",
+    "calendarDate": "NOV 28",
+    "scriptureReference": "Luke 16-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 329,
+    "dayLabel": "DAY 329",
+    "calendarDate": "NOV 29",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 330,
+    "dayLabel": "DAY 330",
+    "calendarDate": "NOV 30",
+    "scriptureReference": "Luke 20-24",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 331,
+    "dayLabel": "DAY 331",
+    "calendarDate": "DEC 1",
+    "scriptureReference": "Numbers 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 332,
+    "dayLabel": "DAY 332",
+    "calendarDate": "DEC 2",
+    "scriptureReference": "Numbers 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 333,
+    "dayLabel": "DAY 333",
+    "calendarDate": "DEC 3",
+    "scriptureReference": "Numbers 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 334,
+    "dayLabel": "DAY 334",
+    "calendarDate": "DEC 4",
+    "scriptureReference": "Numbers 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 335,
+    "dayLabel": "DAY 335",
+    "calendarDate": "DEC 5",
+    "scriptureReference": "Numbers 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 336,
+    "dayLabel": "DAY 336",
+    "calendarDate": "DEC 6",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 337,
+    "dayLabel": "DAY 337",
+    "calendarDate": "DEC 7",
+    "scriptureReference": "Numbers 32-36",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 338,
+    "dayLabel": "DAY 338",
+    "calendarDate": "DEC 8",
+    "scriptureReference": "John 1-4",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 339,
+    "dayLabel": "DAY 339",
+    "calendarDate": "DEC 9",
+    "scriptureReference": "John 5-8",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 340,
+    "dayLabel": "DAY 340",
+    "calendarDate": "DEC 10",
+    "scriptureReference": "John 9-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 341,
+    "dayLabel": "DAY 341",
+    "calendarDate": "DEC 11",
+    "scriptureReference": "John 13-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 342,
+    "dayLabel": "DAY 342",
+    "calendarDate": "DEC 12",
+    "scriptureReference": "John 18-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 343,
+    "dayLabel": "DAY 343",
+    "calendarDate": "DEC 13",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 344,
+    "dayLabel": "DAY 344",
+    "calendarDate": "DEC 14",
+    "scriptureReference": "Genesis 1-6",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 345,
+    "dayLabel": "DAY 345",
+    "calendarDate": "DEC 15",
+    "scriptureReference": "Genesis 7-12",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 346,
+    "dayLabel": "DAY 346",
+    "calendarDate": "DEC 16",
+    "scriptureReference": "Genesis 13-19",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 347,
+    "dayLabel": "DAY 347",
+    "calendarDate": "DEC 17",
+    "scriptureReference": "Genesis 20-25",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 348,
+    "dayLabel": "DAY 348",
+    "calendarDate": "DEC 18",
+    "scriptureReference": "Genesis 26-31",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 349,
+    "dayLabel": "DAY 349",
+    "calendarDate": "DEC 19",
+    "scriptureReference": "Genesis 32-37",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 350,
+    "dayLabel": "DAY 350",
+    "calendarDate": "DEC 20",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 351,
+    "dayLabel": "DAY 351",
+    "calendarDate": "DEC 21",
+    "scriptureReference": "Genesis 38-44",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 352,
+    "dayLabel": "DAY 352",
+    "calendarDate": "DEC 22",
+    "scriptureReference": "Genesis 45-50",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 353,
+    "dayLabel": "DAY 353",
+    "calendarDate": "DEC 23",
+    "scriptureReference": "Matthew 1-5",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 354,
+    "dayLabel": "DAY 354",
+    "calendarDate": "DEC 24",
+    "scriptureReference": "Matthew 6-11",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 355,
+    "dayLabel": "DAY 355",
+    "calendarDate": "DEC 25",
+    "scriptureReference": "Matthew 12-17",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 356,
+    "dayLabel": "DAY 356",
+    "calendarDate": "DEC 26",
+    "scriptureReference": "Matthew 18-23",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 357,
+    "dayLabel": "DAY 357",
+    "calendarDate": "DEC 27",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 358,
+    "dayLabel": "DAY 358",
+    "calendarDate": "DEC 28",
+    "scriptureReference": "Matthew 24-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 359,
+    "dayLabel": "DAY 359",
+    "calendarDate": "DEC 29",
+    "scriptureReference": "Exodus 1-7",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 360,
+    "dayLabel": "DAY 360",
+    "calendarDate": "DEC 30",
+    "scriptureReference": "Exodus 8-14",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 361,
+    "dayLabel": "DAY 361",
+    "calendarDate": "DEC 31",
+    "scriptureReference": "Exodus 15-21",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 362,
+    "dayLabel": "DAY 362",
+    "calendarDate": "JAN 1",
+    "scriptureReference": "Exodus 22-28",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 363,
+    "dayLabel": "DAY 363",
+    "calendarDate": "JAN 2",
+    "scriptureReference": "Exodus 29-34",
+    "isRestDay": false
+  },
+  {
+    "dayNumber": 364,
+    "dayLabel": "DAY 364",
+    "calendarDate": "JAN 3",
+    "scriptureReference": "",
+    "isRestDay": true
+  },
+  {
+    "dayNumber": 365,
+    "dayLabel": "DAY 365",
+    "calendarDate": "JAN 4",
+    "scriptureReference": "Exodus 35-40",
+    "isRestDay": false
+  }
+]
